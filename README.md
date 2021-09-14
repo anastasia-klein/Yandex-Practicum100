@@ -3,6 +3,4 @@ Projects that were completed during the Practicum100 program for Data Analysts b
 
 | Project name          | Description                                     | Libraries used             |
 | :-------------------- | :---------------------------------------------- |:---------------------------|
-| Borrower default risk | Determining if a dank customer’s marital status | pandas                     |  
-| analysis              | and number of children has an impact on whether |                            |
-|                       | they will default on a loan                     |                            |
+| Borrower default risk analysis| Determining if a dank customer’s marital status and number of children has an impact on whether they will default on a loan| pandas| 
