@@ -1,4 +1,6 @@
-__Analyzing borrowers’ risk of defaulting__
+# Analyzing borrowers’ risk of defaulting
+## Analyzing borrowers’ risk of defaulting
+### Analyzing borrowers’ risk of defaulting
 
 There are bank data on customers’ credit worthiness.
 
