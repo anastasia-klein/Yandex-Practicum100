@@ -2,7 +2,7 @@
 
 There are bank data on customers’ credit worthiness.
 
-The purpose of the study: find out if a customer’s marital status, number of children as well as income level and loan purposes has an impact on whether they will default on a loan.
+__The purpose of the study__: find out if a customer’s marital status, number of children as well as income level and loan purposes has an impact on whether they will default on a loan.
 
 __Description of the data__
 
