@@ -17,3 +17,5 @@ __Description of the data__
 * `debt`: whether the customer has ever defaulted on a loan
 * `total_income`: monthly income
 * `purpose`: reason for taking out a loan
+
+See __the research results__ in [1 Borrower default risk analysis.ipynb](https://github.com/anastasia-klein/Yandex-Practicum100/blob/main/Borrower%20default%20risk%20analysis/1%20Borrower%20default%20risk%20analysis.ipynb)
