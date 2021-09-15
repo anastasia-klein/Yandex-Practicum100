@@ -18,4 +18,4 @@ The dataset contains the following fields:
 
 See the research results in [8 Los Angeles Restaurants Analysis.ipynb](https://github.com/anastasia-klein/Yandex-Practicum100/blob/main/Los%20Angeles%20Restaurants%20Analysis/8%20Los%20Angeles%20Restaurants%20Analysis.ipynb)
 
-See a presentation of the research results for investors in [Roboter-run_cafe_20210501-better.pdf](https://github.com/anastasia-klein/Yandex-Practicum100/blob/main/Los%20Angeles%20Restaurants%20Analysis/Roboter-run_cafe_20210501-better.pdf)
+See a presentation of the research results for investors in [Roboter-run_cafe_20210501.pdf](https://github.com/anastasia-klein/Yandex-Practicum100/blob/main/Los%20Angeles%20Restaurants%20Analysis/Roboter-run_cafe_20210501.pdf)
