@@ -9,14 +9,14 @@ __The purpose of the study__: to analyze clients' behavior, carry out a prelimin
 __Description of the data__
 
 The `users` table (data on users):
-user_id — unique user identifier
-first_name — user's name
-last_name — user's last name
-age — user's age (years)
-reg_date — subscription date (dd, mm, yy)
-churn_date — the date the user stopped using the service (if the value is missing, the calling plan was being used when this data was retrieved)
-city — user's city of residence
-plan — calling plan name
+* user_id — unique user identifier
+* first_name — user's name
+* last_name — user's last name
+* age — user's age (years)
+* reg_date — subscription date (dd, mm, yy)
+* churn_date — the date the user stopped using the service (if the value is missing, the calling plan was being used when this data was retrieved)
+* city — user's city of residence
+* plan — calling plan name
 
 The `calls` table (data on calls):
 * id — unique call identifier
