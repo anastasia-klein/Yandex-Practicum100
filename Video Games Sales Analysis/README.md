@@ -1,4 +1,4 @@
-## Research on Video Games Sales
+### Research on Video Games Sales
 
 There is the online store, which sells video games all over the world.
 
