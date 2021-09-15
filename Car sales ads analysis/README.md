@@ -1,4 +1,4 @@
-## Research on car sales ads
+### Research on car sales ads
 
 There is an online car marketplace where hundreds of free vehicle advertisements are published every day.
 
