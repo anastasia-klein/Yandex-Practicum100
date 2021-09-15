@@ -4,7 +4,7 @@ There is an application for the sale of food products.
 
 We have logs with data on pageviews including the experiment ID, one of which is changing fonts for the entire app.
 
-The purpose of the study: to investigate user behavior for the company's app, study the sales funnel, analyze the results of the A/A/B test and determine whether the font affects user behavior.
+__The purpose of the study__: to investigate user behavior for the company's app, study the sales funnel, analyze the results of the A/A/B test and determine whether the font affects user behavior.
 
 __Description of the data__
 
