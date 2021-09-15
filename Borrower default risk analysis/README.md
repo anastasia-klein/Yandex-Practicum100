@@ -5,6 +5,8 @@ There are bank data on customers’ credit worthiness.
 The purpose of the study: find out if a customer’s marital status, number of children as well as income level and loan purposes has an impact on whether they will default on a loan.
 
 __Description of the data__
+
+The dataset contains the following fields:
 * `children`: the number of children in the family
 * `days_employed`: how long the customer has been working
 * `dob_years`: the customer’s age
