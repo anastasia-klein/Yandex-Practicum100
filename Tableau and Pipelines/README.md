@@ -1,4 +1,4 @@
-__The pupose of the dashboard__: to show YouTube trending-video history over the year to determine most promising content and region in term of number of views.
+__The pupose of [the dashboard](https://public.tableau.com/profile/anastasia.klein#!/vizhome/TrendingVideoHistoryonYouTube/Trending-videoHistory?publish=yes)__: to show YouTube trending-video history over the year to determine most promising content and region in term of number of views.
 
 __Questions to be answered by the dashboard__: 
 * What video categories trended most often?
